@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warehouse Brokerage Platform</title>
+</head>
+<body>
+    <h1>Welcome to the Warehouse Brokerage Platform</h1>
+    <p>This platform allows warehouse owners to list their properties directly without the need for a broker, paying a minimal fee of 1% to 1.5% upon transaction completion.</p>
+    <h2>Core Architecture</h2>
+    <ul>
+        <li><strong>Frontend:</strong> React (or Vue.js) for a responsive and dynamic user interface. Redux for state management, Google Maps API or Mapbox for map-based browsing.</li>
+        <li><strong>Backend:</strong> Node.js with Express or Python Django, GraphQL for data queries, TensorFlow or PyTorch for machine learning.</li>
+        <li><strong>Database:</strong> PostgreSQL, MongoDB, Redis for caching.</li>
+        <li><strong>Blockchain (optional):</strong> Ethereum or Polygon for smart contracts.</li>
+    </ul>
+</body>
+</html>
