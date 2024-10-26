@@ -33,4 +33,20 @@ This section will guide you through setting up the project on your local machine
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
-Florida Warehouses
+npm install
+npm install
+/docs                  # Documentation and additional info
+/src                   # Source code files
+  ├── components       # Reusable components
+  ├── pages            # Main pages
+  ├── styles           # CSS/SCSS files
+  └── utils            # Helper functions
+/public                # Public assets
+.gitignore             # Files and directories to ignore in Git
+package.json           # Project dependencies and scripts
+README.md              # Documentation
+npm run build
+npm run deploy
+
+Copy and paste this content into your `README.md` file, and update any placeholders (like `[Project Name]`, `yourusername`, `your-repo-name`, etc.) to fit your actual project details. Let me know if there’s anything specific you’d like to add!
+
